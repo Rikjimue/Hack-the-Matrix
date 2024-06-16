@@ -1,6 +1,6 @@
 # Hack-the-Matrix
 
-This is a simple game made in java that is inspired from hacking minigames in Cyberpunk and GTA5.
+This is a simple game made in java that is inspired from hacking minigames in Cyberpunk and other games.
 
 # How to play
 
