@@ -1,6 +1,6 @@
 # Hack-the-Matrix
 
-This is a simple game made in java that is inspired from hacking minigames in Cyberpunk and other games.
+Hack the Matrix is a simple puzzle game that takes inspiration from minigames inside games like Cyberpunk. This is my first project that I have made using java.
 
 <img src="https://github.com/Rikjimue/Hack-the-Matrix/blob/main/resources/HTM-Readme-Menu.PNG" width="600" height="450">
 <img src="https://github.com/Rikjimue/Hack-the-Matrix/blob/main/resources/HTM-Readme-Game.PNG" width="600" height="450">
