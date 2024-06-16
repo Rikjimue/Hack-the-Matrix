@@ -2,6 +2,10 @@
 
 This is a simple game made in java that is inspired from hacking minigames in Cyberpunk and other games.
 
+<img src="https://github.com/Rikjimue/Hack-the-Matrix/blob/main/resources/HTM-Readme-Menu.PNG" width="600" height="450">
+<img src="https://github.com/Rikjimue/Hack-the-Matrix/blob/main/resources/HTM-Readme-Game.PNG" width="600" height="450">
+<img src="https://github.com/Rikjimue/Hack-the-Matrix/blob/main/resources/HTM-Readme-Win.PNG" width="600" height="450">
+
 # How to play
 
 Requirements:
